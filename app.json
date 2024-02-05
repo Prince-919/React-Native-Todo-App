@@ -21,7 +21,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/splash.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.princesharma01.todoapp"
     },
     "web": {
       "favicon": "./assets/icon.png"
